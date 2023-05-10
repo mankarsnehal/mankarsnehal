@@ -8,14 +8,36 @@
 </p>
 
 ## Skills
+
 <h3 align="left">Languages and Tools:</h3>
-### Programming Languages
 <p align="left"> 
 
 </p>
 
 
-### Frontend Development
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
 </p>

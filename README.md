@@ -1,82 +1,99 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+## 🛠 Primary Tech Stack 
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Data Analysis
+
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+### Machine Learning
+
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+### Backend Development
+
+![Fast API](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+### DevOPs
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+
+### Cloud Hosting
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### MLOPs
+
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue)
+![DVC](https://img.shields.io/badge/DVC-%23150458.svg?style=flat-square)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-
-### Hi 👋, I'm Snehal Sanjay Mankar
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
-[![Gmail Badge](https://img.shields.io/badge/-snehalmankar.2121@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snehalmankar.2121@gmail.com)](mailto:snehalmankar.2121@gmail.com) 
-
-## Skills
-
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> 
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-plastic&logo=markdown&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-plastic&logo=json&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-plastic&logo=html5&logoColor=white)
-![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=flat-plastic&logo=svg&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=javascript&logoColor=white)
-![GNU%20Bash](https://img.shields.io/badge/-GNU%20Bash-4EAA25?style=flat-plastic&logo=gnubash&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-plastic&logo=nodedotjs&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-plastic&logo=latex&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-plastic&logo=java&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-plastic&logo=css3&logoColor=white)
-![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-plastic&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-plastic&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-plastic&logo=php&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-plastic&logo=sass&logoColor=white)
-</p>
+## ⚡Areas of Interest
 
 
-<h3 align="left">Frontend Development:</h3>
-<p align="left"> 
+🌟 Synthesizing scripts to make development work flow easier
 
-</p>
+🌟 Crafting minimalistic Web and Desktop Applications to simplify daily mundane tasks
 
-<h3 align="left">Backend Development:</h3>
-<p align="left"> 
+🌟 Composing and Contributing to open source applications for a community centered and transparent tech ecosystem
 
-</p>
+🌟 Investigating amusing insights by data analysis across various formats of data such as images,text,geospatial,medical records,pds,etc
 
+🌟 Building tech communities and advocating for products for the future!
 
-<h3 align="left">Mobile App Development:</h3>
-<p align="left"> 
+🌟 Forging Efficient APIs to enable clients translate their idea into a MVP
 
-</p>
+🌟 Mentoring young and inquisitive minds to explore their path in tech
 
-<h3 align="left"AI/ML:</h3>
-<p align="left"> 
+🌟 Machine Learning and it's applications across multiple industries such as:
+ - Healthcare
+ - Climate Change and Environmental Sciences
+ - Fitness
+ - Sports
+ - Advertising
+ - And many more!
+ 
+🌟 Playing with Computer Vision
 
-</p>
+🌟 Natural Language Process
 
+🌟 Handling MLOPs for machine learning projects meant for collaboration
 
-<h3 align="left">Database:</h3>
-<p align="left"> 
-
-</p>
-
-
-<h3 align="left">Backend as a Service(BaaS):</h3>
-<p align="left"> 
-
-</p>
-
-<h3 align="left">Framework:</h3>
-<p align="left"> 
-
-</p>
-
-<h3 align="left">Software:</h3>
-<p align="left"> 
-
-</p>
-
-<h3 align="left">Other:</h3>
-<p align="left"> 
-
-</p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mankarsnehal&show_icons=true&locale=en&layout=compact" alt="mankarsnehal" /></p>
+🌟 Working on Cloud Deployment of ML Applications to enable them scale and be at the fingertips of customers

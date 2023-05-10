@@ -6,10 +6,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 [![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
 [![Gmail Badge](https://img.shields.io/badge/-snehalmankar.2121@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snehalmankar.2121@gmail.com)](mailto:snehalmankar.2121@gmail.com) 
-</p>
 
 ## Skills
 

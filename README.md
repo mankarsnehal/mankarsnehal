@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://snehalmankar2121.wixsite.com/snehal-mankar">Snehal Sanjay Mankar</a></h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
   
-- 🌱 I’m currently passionately exploring world of **Data Science** with the help of **100 Days of Data Science coding challenge**
+- 🌱 I’m currently passionately exploring world of **Data Science** with the help of [100 Days of Data Science coding challenge](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science)
 
 - 👨‍💻 All of my projects are available at [https://snehalmankar2121.wixsite.com/snehal-mankar](https://snehalmankar2121.wixsite.com/snehal-mankar)
 

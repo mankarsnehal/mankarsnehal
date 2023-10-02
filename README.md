@@ -103,7 +103,10 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mankarsnehal&theme=dark)](https://github.com/mankarsnehal)
 
   
-<img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=mankarsnehal&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" />
+<!--- <img style="height = auto; width: auto;" class="img" src="https://github-readme-stats.vercel.app/api?username=mankarsnehal&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" /> --->
+
+![](https://github-readme-stats.vercel.app/api?username=mankarsnehal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
  
 <img style="height = auto; width: auto;" class="img" src="https://streak-stats.demolab.com?user=mankarsnehal&theme=dracula&hide_border=true" />
  

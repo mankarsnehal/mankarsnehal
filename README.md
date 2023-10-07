@@ -3,7 +3,7 @@
   
 - 🌱 I’m currently passionately exploring world of **Data Science** with the help of [100 Days of Data Science coding challenge](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science).
 
-- 👨‍💻 All of my projects are available at [https://snehalmankar2121.wixsite.com/snehal-mankar](https://snehalmankar2121.wixsite.com/snehal-mankar)
+- 👨‍💻 All of my projects are available at [https://snehalmankar2121.wixsite.com/snehal-mankar](https://snehalmankar2121.wixsite.com/snehal-mankar).
 
 - 📫 How to reach me **snehalmankar.2121@gmail.com**
 
